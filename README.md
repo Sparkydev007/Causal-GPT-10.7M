@@ -1,5 +1,9 @@
 # Causal-GPT-10.7M: A Deeply Optimized Causal Transformer with Dynamic KV-Caching Inference
 
+<p align="center">
+  <img src="./assets.png.png" alt="Causal-GPT-10.7M Poster" width="1200">
+</p>
+
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
